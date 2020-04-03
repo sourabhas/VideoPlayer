@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="play">Play</string>
+    <string name="pause">PAUSE</string>
+    <string name="skip">SKIP</string>
+    <string name="plays">PLAY</string>
+</resources>
